@@ -6,6 +6,78 @@ ___
 ### Palavras chave:
 >Node, NPM, HTTPie, Insomnia, GET, POST, PUT, DELETE, Buffers, Streams, Json, UUID, Routes, Regex
 
+## Conteúdo Programático do Módulo 1:
+
+<details style="font-size: 16px">
+<summary><strong style="font-size: 18px">1. Iniciando com Node.js</strong></summary>
+
+  ---
+
+  + Introdução
+  + Criando um projeto Node.js
+  + node --watch
+
+  ---
+</details>
+
+<details style="font-size: 16px">
+<summary><strong style="font-size: 18px">2. Estrutura da aplicação</strong></summary>
+
+  ---
+
+  + Rotas de criação e listagem (Métodos HTTP)
+  + Salvando usuários em memória (Headers)
+  + Conhecendo HTTP status codes
+
+  ---
+</details>
+
+<details style="font-size: 16px">
+<summary><strong style="font-size: 18px">3. Streams no Node.js</strong></summary>
+
+  ---
+
+  + Entendendo Streams no Node
+  + Criando stream de leitura
+  + Stream de escrita e transformação
+  + Aplicando Streams no módulo HTTP
+  + Consumindo uma stream completa
+  + Corpo da requisição em JSON (Stream & Buffers)
+  + Entendendo Buffers no Node
+  + Criando middleware de JSON
+
+  ---
+</details>
+
+<details style="font-size: 16px">
+<summary><strong style="font-size: 18px">4. Banco de dados</strong></summary>
+
+  ---
+
+  + Criando banco de dados JSON
+  + Persistindo banco de dados
+  + Criando ID único e universal (UUID)
+
+  ---
+</details>
+
+<details style="font-size: 16px">
+<summary><strong style="font-size: 18px">5. Rotas da aplicação</strong></summary>
+
+  ---
+
+  + Separando rotas da aplicação
+  + Route e Query parameters
+  + Criando regex dos parâmetros
+  + Rotas com parâmetros (RegEx)
+  + Remoção de registros
+  + Atualização de registros
+  + Capturando query parameters
+  + Filtrando lista do banco de dados
+
+  ---
+</details>
+
 ## Principais comandos:
 
 ### Guia: "Instalando o Node e o NPM"
