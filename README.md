@@ -78,6 +78,10 @@ ___
   ---
 </details>
 
+## Atalhos do VSCode:
+
+>Clique para visualizar os [Atalhos do VSCode](https://silicon-chips-f58.notion.site/VsCode-Shortcuts-Atalhos-4ced0388660c4f1c93b410765c0a44cd) no Notion.
+
 ## Principais comandos:
 
 ### Guia: "Instalando o Node e o NPM"
